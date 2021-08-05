@@ -1,0 +1,133 @@
+body {
+  text-align: center;
+  background-color: hsl(218, 28%, 13%);
+  color: white;
+}
+
+h4 {
+  margin-top: 3%;
+}
+
+.intro-img {
+  height: 50%;
+  width: 50%;
+}
+
+.description {
+  width: 40%;
+  margin: 4% auto;
+}
+
+.main-heading {
+  width: 50%;
+}
+
+.get-Started-btn{
+  color: white;
+  border: solid #33ccff;
+  border-radius: 25px;
+  padding: 1% 5%;
+  background-image: linear-gradient(to right, #33ccff, #1ac6ff);
+}
+.short-btn{
+  display: inline-block;
+}
+.mail-input{
+  display: inline-block;
+  width: 50%;
+  border-radius: 25px;
+  padding: 1% 5%;
+}
+
+.intro {
+  background-image: url(images/bg-curvy-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-color: hsl(219, 30%, 18%);
+  padding-bottom: 10%;
+}
+
+#testimonials {
+  padding: 0 5% 5%;
+}
+
+.testimonial-item {
+  margin: 6% 0;
+}
+
+.testimonial-desc {
+  padding: 1% 15%;
+}
+
+.section-3-desc {
+  text-align: left;
+  padding: 8% 15% 0 1%;
+  box-sizing: border-box;
+}
+
+.section-3 {
+  position: relative;
+}
+
+h1 {
+  margin-bottom: 2%;
+}
+h3{
+  color: #80ffff;
+  text-decoration: underline;
+}
+
+.profile-photos {
+  width: 13%;
+  height: 18%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 2%;
+}
+
+.row-1 {
+  padding: 0 7%;
+  margin: 10% auto;
+}
+
+.col {
+  padding: 3%;
+  margin: 10% 4%;
+  text-align: left;
+  background-color: hsl(219, 30%, 18%);
+}
+
+footer {
+  background-color: hsl(216, 53%, 9%);
+  padding: 10% 5% 5%;
+}
+
+.floating-div {
+  background-color: hsl(217, 28%, 15%);
+  width: 60%;
+  margin: auto;
+  padding: 3% 6%;
+  position: absolute;
+  left: 20%;
+  top: 103%;
+}
+
+.footer-links {
+  display: inline-block;
+  width: 40%;
+  padding: .5rem 1rem;
+  text-align: left;
+  color: white;
+}
+.footer-col{
+  padding: 5% 1% 5%;
+}
+.icons{
+  margin: 10% 2%;
+}
+.footer-logo{
+  float: left;
+}
+.row-2{
+  clear: left;
+}
